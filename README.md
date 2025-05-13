@@ -43,7 +43,7 @@ npm start
 
 ### 4. Faça requisições utilizando uma ferramenta como Postman ou Insomnia:
 
-## 4.1 Registrar log (POST)
+#### 4.1 Registrar log (POST)
 - http://localhost:3000/logs
 - Corpo da requisição:
 ```bash
@@ -51,6 +51,6 @@ npm start
   "nome": "João da Silva"
 }
 ```
-## 4.2 Consultar logs (GET)
+#### 4.2 Consultar logs (GET)
 - http://localhost:3000/logs/:id (Passar o id desejado para consulta e verificar se foi cadastrado no log).
 
