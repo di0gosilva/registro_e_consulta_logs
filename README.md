@@ -13,7 +13,7 @@ Este projeto tem como objetivo o **registro** e a **consulta de logs** de ativid
 ## Funcionalidades 🚀 
 
 - ✅ Registro de logs via requisição POST
-- ✅ Consulta de todos os logs registrados
+- ✅ Consulta de todos os logs por ID via requisição GET
 
 ## Como Rodar o Projeto 🔧
 
